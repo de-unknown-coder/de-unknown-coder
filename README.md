@@ -39,7 +39,7 @@
 
 ## 🧭 Long term
 
-Move from “I built a model” → “I built a system”
+Build systems that matters to the society and in the process remaining sane
 
 ---
 
@@ -55,7 +55,7 @@ The real challenge is figuring out which one.
 
 If you’re into:
 - AI systems  
-- Deep learning from scratch  
+- Deep learning  
 - or debugging things that *should* work  
 
 We’ll get along.

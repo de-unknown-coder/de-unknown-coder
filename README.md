@@ -39,7 +39,7 @@
 
 ## 🧭 Long term
 
-> Move from “I built a model” → “I built a system”
+Move from “I built a model” → “I built a system”
 
 ---
 

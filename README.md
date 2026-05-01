@@ -1,61 +1,62 @@
 # 👋 Hey, I’m Adarsh
 
-> I train models, build systems around them, and occasionally question why they generate nonsense with full confidence.
+> I work on deep learning systems, try to understand them beyond surface-level usage, and occasionally question why they behave with such confidence.
 
 ---
 
 ## 🧠 What I’m into
 
-- Deep Learning (not just using it — **building it from scratch when possible**)  
-- Recently exploring **Mamba SSM** (State Space Models) and its advantage over Self-Attention Transformers  
-- Writing code that works… and then figuring out why it *barely* works  
+- Deep Learning — not just using libraries, but understanding what’s happening under the hood  
+- Model architectures — exploring beyond standard Transformers (currently curious about State Space Models like Mamba)  
+- Turning ideas into working systems (and then figuring out why they almost broke)  
 
 ---
 
-## ⚙️ What I’m building
+## ⚙️ What I focus on
 
-- 🧠 Custom language models trained on code datasets  
-- 🚀 FastAPI backends to serve inference  
-- 🧪 Testing pipelines (so things fail *predictably*, not randomly)
+- Building and experimenting with deep learning models  
+- Understanding how models behave, not just whether they “work”  
+- Writing code that is testable, debuggable, and doesn’t collapse under small changes  
 
 ---
 
 ## 🛠️ Tech I use
 
-- Python (obviously)  
+- Python  
 - PyTorch  
-- FastAPI
-- Scikit-Learn
+- FastAPI  
+- Scikit-learn  
 
 ---
 
 ## 💣 Things I’m figuring out (the real list)
 
-- Making models faster 
-- Handling concurrency in ML systems  
-- Writing code that future-me doesn’t hate  
+- Making models efficient — not just accurate  
+- Designing systems that don’t fall apart under real usage  
+- Handling complexity without turning code into chaos  
+- Writing code that future-me won’t regret  
 
 ---
 
 ## 🧭 Long term
 
-Build systems that matters to the society and in the process remaining sane
+> Move from building isolated models → building systems that actually matter
 
 ---
 
 ## ⚡ Fun fact
 
-Sometimes the model outputs garbage.  
-Sometimes it’s my code.  
-The real challenge is figuring out which one.
+Sometimes the model is wrong.  
+Sometimes the code is wrong.  
+The real skill is knowing which one to blame first.
 
 ---
 
 ## 📫 Let’s connect
 
-If you’re into:
-- AI systems  
+If you're into:
 - Deep learning  
+- building things from scratch  
 - or debugging things that *should* work  
 
-We’ll get along.
+We’ll probably get along.
